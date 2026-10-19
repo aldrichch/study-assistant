@@ -1,4 +1,4 @@
-# Free Study Assistant Chatbot
+# Mini project: Study assistant chatbot from DigitalSkola
 
 A simple, free, and lightweight study assistant chatbot built with Python and FastAPI. This project uses TF-IDF and cosine similarity to match users' questions with answers from a local knowledge base.
 
