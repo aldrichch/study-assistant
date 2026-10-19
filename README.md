@@ -97,30 +97,6 @@ Send a POST request to `/chat` with a JSON body like this:
 
 The exact response format depends on the application's implementation.
 
-## Project Objectives
-
-This project was developed as a practical learning exercise to understand:
-
-- Building REST APIs with FastAPI.
-- Applying basic text similarity techniques using Scikit-learn.
-- Managing Python dependencies.
-- Containerizing an application with Docker.
-- Publishing and sharing source code through GitHub.
-
-## Future Improvements
-
-- Expand the knowledge base with more questions and answers.
-- Improve support for English and Indonesian questions.
-- Add automated tests and input validation.
-- Develop a simple web-based chat interface.
-- Explore integration with a locally running language model.
-
-## Author
-
-**Aldrich**
-
-GitHub: [@aldrichch](https://github.com/aldrichch)
-
 ---
 
 This project is intended for educational purposes and demonstrates a simple approach to building and containerizing a retrieval-based chatbot.
